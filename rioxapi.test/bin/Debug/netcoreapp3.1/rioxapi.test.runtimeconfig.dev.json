@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rioxd\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rioxd\\.nuget\\packages"
+    ]
+  }
+}
