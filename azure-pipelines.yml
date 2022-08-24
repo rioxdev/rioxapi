@@ -14,7 +14,7 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- task:Test
+- task: DotNetCoreCLI@2
   inputs:
     command: test
     projects: '**/*test/*.csproj'
