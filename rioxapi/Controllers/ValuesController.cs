@@ -10,7 +10,7 @@ namespace rioxapi.Controllers
         [HttpGet]
         public ActionResult Get()
         {
-            return Ok("riox");
+            return Ok("mega kill");
         }
     }
 }
