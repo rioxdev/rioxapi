@@ -28,7 +28,7 @@ steps:
   inputs:
     command:  publish
     publishWebProjects: false
-    projects:  'src/rioxapi/rioxapi.csproj'
+    projects:  'rioxapi/rioxapi.csproj'
     arguments: '--configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)'
     zipAfterPublish: true
 
