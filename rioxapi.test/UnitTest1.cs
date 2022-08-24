@@ -14,7 +14,7 @@ namespace rioxapi.test
             var result = controller.Get();
 
             var value = Assert.IsType<OkObjectResult>(result).Value;
-            Assert.Equal("mega kill", value.ToString());
+            Assert.Equal("rampage !", value.ToString());
         }
     }
 }

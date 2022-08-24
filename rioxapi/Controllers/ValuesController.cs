@@ -10,7 +10,7 @@ namespace rioxapi.Controllers
         [HttpGet]
         public ActionResult Get()
         {
-            return Ok("mega kill");
+            return Ok("rampage !");
         }
     }
 }
