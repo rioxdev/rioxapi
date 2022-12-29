@@ -14,7 +14,7 @@ namespace rioxapi.test
             var result = controller.Get();
 
             var value = Assert.IsType<OkObjectResult>(result).Value;
-            Assert.Equal("rampage extreme! 2023 !", value.ToString());
+            Assert.Equal("rampage extreme 2023 !", value.ToString());
         }
     }
 }
