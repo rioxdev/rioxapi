@@ -17,3 +17,8 @@ C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\rioxapi.RazorTargetAssemblyInfo.c
 C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\rioxapi.dll
 C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\rioxapi.pdb
 C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\rioxapi.genruntimeconfig.cache
+C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\staticwebassets\rioxapi.StaticWebAssets.Pack.cache
+C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.rioxapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.rioxapi.props
+C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.rioxapi.props
+C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.rioxapi.props
