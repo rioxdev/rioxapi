@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rioxapi.test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ec98f14f5b6fbe1f5192ecf53d7f94b63d0cc4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("rioxapi.test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rioxapi.test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

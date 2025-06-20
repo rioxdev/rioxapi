@@ -99,7 +99,8 @@ C:\dev\rioxapi\rioxapi.test\obj\Debug\netcoreapp3.1\rioxapi.test.GeneratedMSBuil
 C:\dev\rioxapi\rioxapi.test\obj\Debug\netcoreapp3.1\rioxapi.test.AssemblyInfoInputs.cache
 C:\dev\rioxapi\rioxapi.test\obj\Debug\netcoreapp3.1\rioxapi.test.AssemblyInfo.cs
 C:\dev\rioxapi\rioxapi.test\obj\Debug\netcoreapp3.1\rioxapi.test.csproj.CoreCompileInputs.cache
-C:\dev\rioxapi\rioxapi.test\obj\Debug\netcoreapp3.1\rioxapi.test.csproj.CopyComplete
 C:\dev\rioxapi\rioxapi.test\obj\Debug\netcoreapp3.1\rioxapi.test.dll
 C:\dev\rioxapi\rioxapi.test\obj\Debug\netcoreapp3.1\rioxapi.test.pdb
 C:\dev\rioxapi\rioxapi.test\obj\Debug\netcoreapp3.1\rioxapi.test.genruntimeconfig.cache
+C:\dev\rioxapi\rioxapi.test\obj\Debug\netcoreapp3.1\rioxapi.test.sourcelink.json
+C:\dev\rioxapi\rioxapi.test\obj\Debug\netcoreapp3.1\rioxapi..510F64D4.Up2Date

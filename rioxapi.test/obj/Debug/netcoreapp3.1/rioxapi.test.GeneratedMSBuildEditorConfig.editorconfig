@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = rioxapi.test
 build_property.ProjectDir = C:\dev\rioxapi\rioxapi.test\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

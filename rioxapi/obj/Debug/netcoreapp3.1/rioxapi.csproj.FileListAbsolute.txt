@@ -6,7 +6,6 @@ C:\dev\rioxapi\rioxapi\bin\Debug\netcoreapp3.1\rioxapi.runtimeconfig.json
 C:\dev\rioxapi\rioxapi\bin\Debug\netcoreapp3.1\rioxapi.runtimeconfig.dev.json
 C:\dev\rioxapi\rioxapi\bin\Debug\netcoreapp3.1\rioxapi.dll
 C:\dev\rioxapi\rioxapi\bin\Debug\netcoreapp3.1\rioxapi.pdb
-C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\rioxapi.csproj.AssemblyReference.cache
 C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\rioxapi.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\rioxapi.AssemblyInfoInputs.cache
 C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\rioxapi.AssemblyInfo.cs
@@ -22,3 +21,4 @@ C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.rioxapi.M
 C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.rioxapi.props
 C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.rioxapi.props
 C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.rioxapi.props
+C:\dev\rioxapi\rioxapi\obj\Debug\netcoreapp3.1\rioxapi.sourcelink.json

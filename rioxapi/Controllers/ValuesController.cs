@@ -10,7 +10,7 @@ namespace rioxapi.Controllers
         [HttpGet]
         public ActionResult Get()
         {
-            return Ok("rampage extreme 2023 !");
+            return Ok("rampage extreme 2025 !");
         }
     }
 }
