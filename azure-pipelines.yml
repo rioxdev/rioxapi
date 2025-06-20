@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: rxpool
+  name: Azure Pipelines
   vmImage: windows-latest
 
 variables:
