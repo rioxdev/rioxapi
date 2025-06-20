@@ -7,14 +7,15 @@ trigger:
 - main
 
 pool:
-  name: Azure Pipelines
+  name: rxagentpool
   vmImage: windows-latest
 
 variables:
   buildConfiguration: 'Release'
 
 steps:
-
+- script: dotnet build --configuration $(buildConfiguration)
+  displayName: 'dotnet build $(buildConfiguration)'
 
 
 - task: DotNetCoreCLI@2
