@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace rioxapi.Controllers
 {
@@ -10,7 +11,7 @@ namespace rioxapi.Controllers
         [HttpGet]
         public ActionResult Get()
         {
-            return Ok("Rampage extreme 2026 !");
+            return Ok($"Rampage extreme {DateTime.Now:o}");
         }
     }
 }
